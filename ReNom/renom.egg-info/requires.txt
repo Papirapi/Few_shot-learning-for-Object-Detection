@@ -1,0 +1,6 @@
+numpy
+scikit-image
+scikit-learn
+Cython>=0.24.0
+Pillow
+future
