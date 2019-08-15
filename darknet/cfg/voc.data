@@ -1,0 +1,6 @@
+classes= 20
+train  = /home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/batch.txt
+valid  = /home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/test.txt
+names = data/voc.names
+backup = backup
+
