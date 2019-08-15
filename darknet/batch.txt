@@ -1,0 +1,16 @@
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000008.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000015.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000019.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000023.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000028.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000033.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000036.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000037.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000041.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000045.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000053.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000060.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000066.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000070.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000074.jpg
+/home/ubuntu/Desktop/few_shot/dataset/VOCtrainval12/VOCdevkit/VOC2012/JPEGImages/2008_000085.jpg
